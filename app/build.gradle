@@ -87,9 +87,4 @@ dependencies {
     kapt "com.google.dagger:hilt-compiler:2.38.1"
 
 
-    /**
-     *   Android Runtime Permission Library
-     */
-    implementation 'com.nabinbhandari.android:permissions:3.8'
-
 }
