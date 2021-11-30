@@ -70,7 +70,8 @@ class VideoFolderFragment : Fragment() {
             file.listFiles()?.forEach {
                 Log.d("TTT", it.name)
                 Log.d("TTT", it.absolutePath)
-                val videoModel = VideoModel(it.absolutePath, it.name, getSize(it.length().toInt()))
+                val videoModel =
+                    VideoModel(it.absolutePath, it.name, getSize(it.length().toInt()))
                 videoFiles.add(videoModel)
             }
         }

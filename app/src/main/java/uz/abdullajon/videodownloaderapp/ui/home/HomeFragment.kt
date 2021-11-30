@@ -21,7 +21,6 @@ class HomeFragment : Fragment() {
     private var _binding: FragmentHomeBinding? = null
     private lateinit var dirPath: String
     private lateinit var adapter: VideoDownloaderAdapter
-    private val allVideos = ArrayList<VideoModel>()
     private val downloadVideos = ArrayList<VideoDownloadModel>()
     lateinit var myVideoDownloader: MyVideoDownloader
 
