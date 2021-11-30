@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/custom_player_control_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/fragment_home.xml" value="0.24166666666666667" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/fragment_video_folder.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/fragment_video_player.xml" value="0.25025641025641027" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/ic_download.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/item_video_download.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/item_videos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Abdulla/VideoDownloaderApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.16041666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
